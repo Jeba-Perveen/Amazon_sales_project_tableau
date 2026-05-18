@@ -45,17 +45,18 @@ The dashboard helps in understanding business performance through visual analyti
 | `Amazon Sales Dashboard.twbx` | Tableau dashboard workbook |
 | `README.md` | Project documentation |
 | `Amazon Sales Dashboard Report` | Detailed business report and analysis |
-| `Dashboard Images` | Screenshots of the dashboards |
+| `Dashboard Images` | Profit analysis.png |
+| `Dashboard Images` | Revenue analysis.png |
 
 ---
 
 ## Dashboard Preview
 
 ### Revenue Dashboard
-![Revenue Dashboard](Amazon sales - Revenue_analysis.png)
+![Revenue Dashboard](Amazon%20sales%20-%20Revenue_analysis.png)
 
 ### Profit Dashboard
-![Profit Dashboard](Amazon sales - Profit_analysis.png)
+![Profit Dashboard](Amazon%20sales%20-%20Profit_analysis.png)
 
 ---
 
