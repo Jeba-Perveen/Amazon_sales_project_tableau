@@ -52,10 +52,10 @@ The dashboard helps in understanding business performance through visual analyti
 ## Dashboard Preview
 
 ### Revenue Dashboard
-![Revenue Dashboard](images/revenue_analysis.png)
+![Revenue Dashboard](Amazon sales - Revenue_analysis.png)
 
 ### Profit Dashboard
-![Profit Dashboard](images/profit_analysis.png)
+![Profit Dashboard](Amazon sales - Profit_analysis.png)
 
 ---
 
