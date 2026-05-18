@@ -50,16 +50,6 @@ The dashboard helps in understanding business performance through visual analyti
 
 ---
 
-## Dashboard Preview
-
-### Revenue Dashboard
-![Revenue Dashboard](Amazon%20sales%20-%20Revenue_analysis.png)
-
-### Profit Dashboard
-![Profit Dashboard](Amazon%20sales%20-%20Profit_analysis.png)
-
----
-
 ## Key Insights
 
 - Identified high-performing and low-performing regions
